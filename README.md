@@ -1,4 +1,4 @@
-# yatracking
+# YaTA
 
 Yet another Tracking App
 
